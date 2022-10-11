@@ -1,6 +1,9 @@
 # 20223101_opensource
 20223101최재성_오픈소스기초설계
 
+# 레포지토리 설명
+*2022년 1학년 2학기 오픈소스기초설계 과목을 위한 github repository*
+
 # 파일 항목
 | src | doc |
 |-----|-----|
@@ -23,3 +26,4 @@
 
 # GitHub 링크
 [20223101_opensource](https://github.com/20223101/20223101_opensource/)
+
